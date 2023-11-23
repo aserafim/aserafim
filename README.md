@@ -43,6 +43,12 @@ Competências:` Programação de modelos de precificação e regras de negócio`
 `Testes`,` Homologação e Deploy`,` Automatização de tarefas`,<br/>
 ` Criação e gerenciamento de bases`,` Formação de novos colaboradores`<br/>
 
+[<img align="left" height="94px" width="94px" alt="Tokio Marine Seguradora" src="https://attachments.gupy.io/production/companies/37426/career/78154/images/2022-07-04_15-10_logo.png"/>](https://www.t-systems.com/)
+
+**Administrador de Sistemas** \
+[**T-Systems do Brasil**](https://www.t-systems.com/) • Intern \
+Competências:` Instalação, configuração e administração de servidores Linux`,<br/>
+`Criação de ambientes dedicados`,` Atendimento a chamados N1 e N2`,
 ##
 
 #### Formação Acadêmica:
@@ -50,7 +56,9 @@ Competências:` Programação de modelos de precificação e regras de negócio`
 
 [<img align="left" height="120px" width="94px" alt="USP" src="https://scs.usp.br/identidadevisual/wp-content/uploads/2022/08/brasao_usp1.png"/>](https://each.usp.br/)
 **Bacharelado em Sistemas de Informação** \
-[**Universidade de São Paulo**](https://each.usp.br/)<br/><br/><br/><br/>
+[**Universidade de São Paulo**](https://each.usp.br/)<br/>
+Linguagens & Tecnologias:` Java`,` C`,` Postgre`,` Python`,` R`
+<br/><br/><br/>
 
 
 
