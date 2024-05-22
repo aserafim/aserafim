@@ -6,7 +6,7 @@
 - 🌭 Sou da terra do cachorro-quente, Osasco/SP
 - ✝️ Cristão, casado, músico e apaixonado por tecnologia
 - 💻 Formado em Sistemas de Informação pela USP
--    Atualmente trabalho como Programador na Tokio Marine Seguradora
+-    Atualmente trabalho como Desenvolvedor na Tokio Marine Seguradora
 
 ##
 
@@ -57,7 +57,7 @@ Competências:` Instalação, configuração e administração de servidores Lin
 [<img align="left" height="120px" width="94px" alt="USP" src="https://scs.usp.br/identidadevisual/wp-content/uploads/2022/08/brasao_usp1.png"/>](https://each.usp.br/)
 **Bacharelado em Sistemas de Informação** \
 [**Universidade de São Paulo**](https://each.usp.br/)<br/>
-Linguagens & Tecnologias:` Java`,` C`,` Postgre`,` Python`,` R`
+Linguagens & Tecnologias:` Python`,` C`,` Postgree`,` SQL Server`,` APIs`
 <br/><br/><br/>
 
 
