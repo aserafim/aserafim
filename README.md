@@ -39,7 +39,7 @@
 [<img align="left" height="94px" width="94px" alt="Tokio Marine Seguradora" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp6rE0z4D1c7GRex5IHYsOoij5bOY-G03_93QqjXXprSaPI3j3KIW8Nn1OvPaWajkGf8Y&usqp=CAU"/>](https://www.tokiomarine.com.br/)
 **Programador** \
 [**Tokio Marine Seguradora**](https://www.tokiomarine.com.br/) • Full-time \
-Competências:` Programação de modelos de precificação e regras de negócio`,<br/>
+Competências:` Desenvolvimento de sistemas de precificação`,<br/>
 `Testes`,` Homologação e Deploy`,` Automatização de tarefas`,<br/>
 ` Criação e gerenciamento de bases`,` Formação de novos colaboradores`<br/>
 
