@@ -57,7 +57,7 @@ Competências:` Instalação, configuração e administração de servidores Lin
 [<img align="left" height="120px" width="94px" alt="USP" src="https://scs.usp.br/identidadevisual/wp-content/uploads/2022/08/brasao_usp1.png"/>](https://each.usp.br/)
 **Bacharelado em Sistemas de Informação** \
 [**Universidade de São Paulo**](https://each.usp.br/)<br/>
-Linguagens & Tecnologias:` Python`,` Ruby`,` GO`,` Postgree`,` SQL Server`,` APIs`
+Linguagens & Tecnologias:` Python`,` C`,` GO`,` Postgree`,` SQL Server`,` APIs`
 <br/><br/><br/>
 
 
