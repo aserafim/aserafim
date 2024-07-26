@@ -65,7 +65,7 @@ Linguagens & Tecnologias:` Python`,` C`,` GO`,` Postgree`,` SQL Server`,` APIs`
 ##
 
 #### Estatísticas:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aserafim&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aserafim&layout=donut-vertical)](https://github.com/aserafim/github-readme-stats)
-[<img height="250px" width="250px" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aserafim&langs_count=15&theme=radical"/>](https://github.com/) \
-[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=aserafim&show_icons=true&include_all_commits=true&theme=drakula"/>](https://github.com/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aserafim&layout=compact&hide=cython&langs_count=10&theme=radical)
+
+
+[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=aserafim&show_icons=true&include_all_commits=true&theme=radical"/>](https://github.com/)
