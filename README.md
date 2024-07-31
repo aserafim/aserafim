@@ -11,7 +11,7 @@
 ##
 
 #### Tecnologias que estudo/utilizo:
-[![My Skills](https://skillicons.dev/icons?i=python,js,nodejs,go,c,postgres,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,go,c,postgres,linux)](https://skillicons.dev)
 
 ## 
 
