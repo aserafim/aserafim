@@ -6,7 +6,7 @@
 - 🌭 Sou da terra do cachorro-quente, Osasco/SP
 - ✝️ Cristão, casado, músico e apaixonado por tecnologia
 - 💻 Formado em Sistemas de Informação pela USP
--    Atualmente trabalho como Desenvolvedor na Tokio Marine Seguradora
+-    Atualmente atuo como Desenvolvedor FICO Blaze na Tokio Marine Seguradora
 
 ##
 
