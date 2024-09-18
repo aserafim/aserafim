@@ -60,7 +60,7 @@ Competências:` Instalação, configuração e administração de servidores Lin
 Linguagens & Tecnologias:` Python`,` C`,` GO`,` Postgree`,` SQL Server`,` APIs`
 <br/><br/><br/>
 
-[<img align="left" height="120px" width="94px" alt="Full Cycle logo" src="https://www.fullcycleaircon.co.za/wp-content/uploads/2024/05/cropped-Add-a-little-bit-of-body-text-300x300.png"/>](https://plataforma.fullcycle.com.br/courses)
+[<img align="left" height="120px" width="120px" alt="Full Cycle logo" src="https://www.fullcycleaircon.co.za/wp-content/uploads/2024/05/cropped-Add-a-little-bit-of-body-text-300x300.png"/>](https://plataforma.fullcycle.com.br/courses)
 **Pós Go Expert** \
 [**Full Cycle**](https://plataforma.fullcycle.com.br/courses)<br/>
 Linguagens & Tecnologias:` GO`,` Postgree`,` SQL Server`,` APIs`
