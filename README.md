@@ -36,8 +36,15 @@
 
 #### Experiência Profissional:
 
+[<img align="left" height="94px" width="94px" alt="Ernst and Young" src="https://upload.wikimedia.org/wikipedia/commons/3/34/EY_logo_2019.svg"/>](https://www.ey.com/pt_br)
+**Desenvolvedor FICO** \
+[**Ernst & Young**](https://www.ey.com/pt_br) • Full-time \
+Competências:` Desenvolvimento de sistemas`,<br/>
+`Testes`,` Homologação e Deploy`,` Automatização de tarefas`,<br/>
+` Criação e gerenciamento de bases`,` Formação de novos colaboradores`<br/>
+
 [<img align="left" height="94px" width="94px" alt="Tokio Marine Seguradora" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp6rE0z4D1c7GRex5IHYsOoij5bOY-G03_93QqjXXprSaPI3j3KIW8Nn1OvPaWajkGf8Y&usqp=CAU"/>](https://www.tokiomarine.com.br/)
-**Programador** \
+**Desenvolvedor FICO** \
 [**Tokio Marine Seguradora**](https://www.tokiomarine.com.br/) • Full-time \
 Competências:` Desenvolvimento de sistemas de precificação`,<br/>
 `Testes`,` Homologação e Deploy`,` Automatização de tarefas`,<br/>
