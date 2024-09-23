@@ -36,7 +36,7 @@
 
 #### Experiência Profissional:
 
-[<img align="left" height="94px" width="94px" alt="Ernst and Young" src="https://upload.wikimedia.org/wikipedia/commons/3/34/EY_logo_2019.svg"/>](https://www.ey.com/pt_br)
+[<img align="left" height="94px" width="94px" alt="Ernst and Young" src="https://www.ey.com/adobe/dynamicmedia/deliver/dm-aid--d415a9f4-f563-4dad-aed7-4024a9fb786a/ey-logo-footer.png?preferwebp=true&quality=85&width=2000"/>](https://www.ey.com/pt_br)
 **Desenvolvedor FICO** \
 [**Ernst & Young**](https://www.ey.com/pt_br) • Full-time \
 Competências:` Desenvolvimento de sistemas`,<br/>
