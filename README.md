@@ -16,7 +16,7 @@
 ## 
 
 #### Ferramentas que uso:
-[![My Tools](https://skillicons.dev/icons?i=vim,vscode,aws,docker)](https://skillicons.dev)  
+[![My Tools](https://skillicons.dev/icons?i=vim,vscode,aws,remix,docker)](https://skillicons.dev)  
 
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
