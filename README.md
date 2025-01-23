@@ -76,8 +76,6 @@ Linguagens & Tecnologias:` GO`,` Postgree`,` SQL Server`,` APIs`
 
 ##
 
-#### Estatísticas:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aserafim&layout=compact&hide=cython,tex,fortran,shell,java,powershell,matlab,smarty&langs_count=10&theme=radical)
-
+#### Estatísticas
 
 [<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=aserafim&show_icons=true&include_all_commits=true&theme=radical"/>](https://github.com/)
