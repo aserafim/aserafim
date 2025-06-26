@@ -3,7 +3,7 @@
 ## Olá, pessoal!! 👋
 ### Meu nome é Alefe Serafim. <img src="https://icons.iconarchive.com/icons/alecive/flatwoken/128/Apps-Terminal-Pc-104-icon.png" alt="ilustração de um terminal" min-width="200px" max-width="200px" width="150px" align="right">
 
-- 💻 Backend Developer | Go | Python | APIs | Cloud Enthusiast | Open to Work
+- 💻 Backend Developer | Go | Python | APIs | Blockchain Enthusiast | Open to Work
 - 🌭 Sou da terra do cachorro-quente, Osasco/SP
 - ✝️ Cristão, casado, músico e apaixonado por tecnologia
 - 💻 Formado em Sistemas de Informação pela USP
@@ -12,7 +12,7 @@
 ##
 
 #### Tecnologias que estudo/utilizo:
-[![My Skills](https://skillicons.dev/icons?i=go,python,js,solidity,postgres,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,js,python,solidity,postgres,linux)](https://skillicons.dev)
 
 ## 
 
