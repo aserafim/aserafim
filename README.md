@@ -12,7 +12,7 @@
 ##
 
 #### Tecnologias que estudo/utilizo:
-[![My Skills](https://skillicons.dev/icons?i=go,js,python,solidity,postgres,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,js,python,solidity,postgres,linux,rabbitmq)](https://skillicons.dev)
 
 ## 
 
@@ -65,13 +65,13 @@ Competências:` Instalação, configuração e administração de servidores Lin
 [<img align="left" height="120px" width="100px" alt="USP" src="https://scs.usp.br/identidadevisual/wp-content/uploads/2022/08/brasao_usp1.png"/>](https://each.usp.br/)
 **Bacharelado em Sistemas de Informação** \
 [**Universidade de São Paulo**](https://each.usp.br/)<br/>
-Linguagens & Tecnologias:` Python`,` C`,` GO`,` Postgree`,` SQL Server`,` APIs`
+Linguagens & Tecnologias:` GO`,` JS`,` Python`,` C`,` Postgree`,` SQL Server`,` APIs`
 <br/><br/><br/>
 
 [<img align="left" height="120px" width="120px" alt="Full Cycle logo" src="https://www.fullcycleaircon.co.za/wp-content/uploads/2024/05/cropped-Add-a-little-bit-of-body-text-300x300.png"/>](https://plataforma.fullcycle.com.br/courses)
 **Pós Go Expert** \
 [**Full Cycle**](https://plataforma.fullcycle.com.br/courses)<br/>
-Linguagens & Tecnologias:` GO`,` Postgree`,` SQL Server`,` APIs`
+Linguagens & Tecnologias:` GO`,` Postgree`,` SQL Server`,` APIs`,` Docker`, ` RabbitMq`,
 <br/><br/><br/>
 
 
