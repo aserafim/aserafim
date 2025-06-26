@@ -12,7 +12,7 @@
 ##
 
 #### Tecnologias que estudo/utilizo:
-[![My Skills](https://skillicons.dev/icons?i=go,js,python,solidity,postgres,linux,rabbitmq)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,js,typescript,python,solidity,postgres,linux,rabbitmq)](https://skillicons.dev)
 
 ## 
 
